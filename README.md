@@ -1,7 +1,9 @@
 # Joint_Data_Augmentation_Tool
 
 ## Abstract
+<p align="justify">
 We provide a user-friendly tool for joint image-point cloud data augmentation, to address the challenges arising from the scarcity of bimodal data. For the image-point cloud pairs in the datasets, rotation 90° (right and left), horizontal flip, vertical flip, image blurring, brightness adjustment (original brightness ± 20%), contrast enhancement, point cloud resampling and point cloud random dropout, can be employed for data augmentation. 
+</p>
 
 We have provided a **Colab** template for quick and easy access to this method. Please click it. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Lijp411/d1f712d232281150fb47572f65e3d985/joint_data_augmentation_tool.ipynb)
 
