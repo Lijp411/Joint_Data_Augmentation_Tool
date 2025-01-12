@@ -32,7 +32,7 @@ We have provided a **Colab** template for quick and easy access to this method. 
   python Data_Augmentation_only_COCO.py
   ```
 
-## 💫 Interactive Operation on Gradio
+## 🔦 Interactive Operation on Gradio
   You can use our [example data](https://drive.google.com/drive/folders/1fpuO7Upai8coMN5ZfUDoegk0SRrhCYUe?usp=drive_link) to interactively expande data using the following command.
   ```
   python Joint_Data_Augmentation_Gradio.py
